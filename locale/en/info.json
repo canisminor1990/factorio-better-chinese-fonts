@@ -2,15 +2,18 @@
   "font": {
     "harmony-os": [
       "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Regular.ttf",
-      "__better-chinese-fonts__/fonts/NotoEmoji-Regular.ttf"
+      "__better-chinese-fonts__/fonts/NotoEmoji-Regular.ttf",
+      "__core__/fonts/DejaVuSans.ttf"
     ],
     "harmony-os-semibold": [
       "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Medium.ttf",
-      "__better-chinese-fonts__/fonts/NotoEmoji-SemiBold.ttf"
+      "__better-chinese-fonts__/fonts/NotoEmoji-SemiBold.ttf",
+      "__core__/fonts/DejaVuSans-Bold.ttf"
     ],
     "harmony-os-bold": [
       "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Bold.ttf",
-      "__better-chinese-fonts__/fonts/NotoEmoji-Bold.ttf"
+      "__better-chinese-fonts__/fonts/NotoEmoji-Bold.ttf",
+      "__core__/fonts/DejaVuSans-Bold.ttf"
     ],
     "harmony-os-mono": [
       "__better-chinese-fonts__/fonts/HackNerdFont-Regular.ttf",
