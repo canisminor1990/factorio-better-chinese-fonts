@@ -1,0 +1,15 @@
+{
+  "mod-description": {
+    "better-chinese-fonts": "Add better Chinese font support for Factorio."
+  },
+  "mod-name": {
+    "better-chinese-fonts": "Better Chinese Fonts"
+  },
+  "mod-setting-name": {
+    "better-chinese-fonts-family": "Font Selection"
+  },
+  "string-mod-setting": {
+    "better-chinese-fonts-family-default": "[font=original-default-dropdown]Default[/font]",
+    "better-chinese-fonts-family-harmony-os": "[font=harmony-os-dropdown]HarmonyOS[/font]"
+  }
+}

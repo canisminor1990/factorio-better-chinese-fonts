@@ -1,0 +1,15 @@
+{
+  "mod-description": {
+    "better-chinese-fonts": "为 Factorio 添加更好的中文字体支持。"
+  },
+  "mod-name": {
+    "better-chinese-fonts": "更好的中文字体"
+  },
+  "mod-setting-name": {
+    "better-chinese-fonts-family": "字体选择"
+  },
+  "string-mod-setting": {
+    "better-chinese-fonts-family-default": "[font=original-default-dropdown]默认字体[/font]",
+    "better-chinese-fonts-family-harmony-os": "[font=harmony-os-dropdown]鸿蒙体[/font]"
+  }
+}

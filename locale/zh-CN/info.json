@@ -1,0 +1,36 @@
+{
+  "font": {
+    "harmony-os": [
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Regular.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "__better-chinese-fonts__/fonts/NotoEmoji-Regular.ttf"
+    ],
+    "harmony-os-semibold": [
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Medium.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+      "__better-chinese-fonts__/fonts/NotoEmoji-SemiBold.ttf"
+    ],
+    "harmony-os-bold": [
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Bold.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_SC_Bold.ttf",
+      "__better-chinese-fonts__/fonts/NotoEmoji-Bold.ttf",
+      "__better-chinese-fonts__/fonts/NotoEmoji-Bold.ttf"
+    ],
+    "harmony-os-mono": [
+      "__better-chinese-fonts__/fonts/HackNerdFont-Regular.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Regular.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "__better-chinese-fonts__/fonts/NotoEmoji-Regular.ttf"
+    ],
+    "harmony-os-locale-pick": [
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Regular.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_SC_Regular.ttf"
+    ],
+    "harmony-os-scenario-message-dialog": [
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_Regular.ttf",
+      "__better-chinese-fonts__/fonts/HarmonyOS_Sans_SC_Regular.ttf",
+      "__better-chinese-fonts__/fonts/NotoEmoji-Regular.ttf"
+    ]
+  },
+  "language-name": "简体中文"
+}
