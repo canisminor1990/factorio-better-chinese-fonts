@@ -6,7 +6,7 @@
 
 #### ✨ Features
 
-- **misc**: Bump v1.0.0, Update v1.1.
+- **misc**: Bump v1.0.0.
 
 
 #### 🐛 Bug Fixes
@@ -26,8 +26,6 @@
 #### What's improved
 
 * **misc**: Bump v1.0.0 ([fb6a9ee](https://github.com/canisminor1990/factorio-better-chinese-fonts/commit/fb6a9ee))
-* **misc**: Update v1.1 ([b086230](https://github.com/canisminor1990/factorio-better-chinese-fonts/commit/b086230))
-
 
 
 #### What's fixed
